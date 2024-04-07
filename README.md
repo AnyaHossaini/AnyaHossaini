@@ -1,4 +1,11 @@
-### Hi Im Aziman @anyahossaini 👋
+### Hi Im Aziman @anyahossaini 👋  
+![octocat-1712463337665](https://github.com/AnyaHossaini/AnyaHossaini/assets/44172471/746105b9-be47-4b38-a01d-d422245e338b)
+
+- 🔭 Im currently learning how to use streamlit
+- ⚡ Fun fact: Im trying to get better at using github more often
+- 📫 Im looking for help on what I should learn next
+
+
 
 <!--
 **AnyaHossaini/AnyaHossaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
