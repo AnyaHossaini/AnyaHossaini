@@ -2,6 +2,7 @@
 
 <!--
 **AnyaHossaini/AnyaHossaini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![octocat-1712463337665](https://github.com/AnyaHossaini/AnyaHossaini/assets/44172471/d29c8782-f954-440f-b73b-f3b064fc45ea)
 
 Here are some ideas to get you started:
 
